@@ -9,6 +9,7 @@ body {
     background-color: #222831;
     font-family: Cambria;
     margin: 0;
+    height: 100%;
 }
 
 body a:visited {
