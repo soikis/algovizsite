@@ -1,3 +1,8 @@
+/* https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space
+https://stackoverflow.com/questions/21447269/how-to-limit-the-length-of-text-in-a-paragraph
+https://stackoverflow.com/questions/5657964/css-why-doesn-t-percentage-height-work
+https://stackoverflow.com/questions/40407222/limit-height-of-flexbox-item
+*/
 #content {
     display: flex;
     flex-direction: row;
